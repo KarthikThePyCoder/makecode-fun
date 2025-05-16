@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8P///w8AAADw3e1EDwAAAP8t3U7/AAAA393dTvQAAADf0t/+9AAAAN/d7f70AAAA393t/vQAAADfLeH+9AAAAN8d7v70AAAA3xLvT/QAAAD/HU5EDwAAAPD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Cake"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA8P8AAAAAAABP9AAAAAAAAE9fDwAAAAAATy/1AAAAAABPX1X/AAAAAE8vJfX/AAAAT18lRPQAAADv/yX0/wAAAO/+9f8AAAAA7+4PAAAAAADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pizza"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
